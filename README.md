@@ -27,6 +27,7 @@ Final price is clipped between a minimum (₹5) and maximum (₹20).
 
 #Architecture Flow
 ![architecture mmd](https://github.com/user-attachments/assets/5564f66d-131f-4fe4-8a5b-f93a4360d12e)
+![image](https://github.com/user-attachments/assets/a6df0800-c570-4ad4-b7f5-3cc954a4e7e6)
 
 
 #Important Links
